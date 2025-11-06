@@ -1,7 +1,7 @@
 # Dart / Flutter
 Shared Knowledge
 
-```
+```dart
 void main() {
   List<List<String>> listOfItem = [
     ["AA", "BB"],
